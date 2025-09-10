@@ -7,7 +7,7 @@ import re
 
 st.set_page_config(
     page_title="Dim Sum 🥟 Email Header Analyzer",
-    layout="centered"
+    layout="wide"
 )
 
 st.title("Dim Sum 🥟 Email Header Analyzer")
